@@ -1,16 +1,20 @@
 {
   "name": "currency_app",
   "version": "1.0.0",
-  "description": "",
+  "description": "currency_app",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "react": "^16.6.0"
   },
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALucking1/currency-app"
   },
   "author": "Anna Lucking",
   "license": "ISC"
